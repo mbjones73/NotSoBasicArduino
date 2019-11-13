@@ -1,4 +1,5 @@
 # NotSoBasicArduino
 My Aurduino assingments
 
-#LEDFade
+## LED Fade
+This was my first aurduino assignment 
