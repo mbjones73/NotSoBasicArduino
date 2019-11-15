@@ -4,8 +4,7 @@
 This was my first aurduino assignment. We had to make a LED blink using an aurduino. This assignment was hard to do because it 
 
 ### Wiring
-<img src="engineering2/notSoBasicCad/media/ledfade.html
-" width="300px">
+![ghfgh](https://github.com/mbjones73/Basic-CAD/blob/master/media/hellofunctions.PNG)
 ### Challenges
 
 ### Lessons Learned
