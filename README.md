@@ -5,9 +5,8 @@ This was my first aurduino assignment. We had to make a LED blink using an aurdu
 
 ### Wiring
 ![gmgfm](https://github.com/mbjones73/Basic-CAD/blob/master/media/ledfade.PNG)
-### Challenges
 
-### Lessons Learned
+### Lessons Learned/Tips for future readers
 
 ## Hello Functions
 ### Description
@@ -16,9 +15,8 @@ In this assignment I learned how to use functions by writing a code to rotate a 
 ![ghfgh](https://github.com/mbjones73/Basic-CAD/blob/master/media/hellofunctions.PNG)
 
 got this from [Alden Dent](https://github.com/adent11)
-### Challenges
 
-### Lessons Learned
+### Lessons Learned/Tips for future readers
 
 
 ## NewPing
@@ -28,6 +26,5 @@ For this assignment I used the NewPing library to get the distance instead of my
 [NewPing()](https://github.com/mbjones73/NotSoBasicArduino/blob/master/NewPing/NewPing.ino)
 ### wiring
 ![hhisi](https://github.com/mbjones73/Basic-CAD/blob/master/media/NewPing.PNG)
-### Challenges
 
-### Lessons Learned
+### Lessons Learned/Tips for future readers
