@@ -25,7 +25,7 @@ got this from [Alden Dent](https://github.com/adent11)
 ### Description
 For this assignment I used the NewPing library to get the distance instead of my own function. I made it so the distance was printed on the serial monitor in centimeters and an LED brightened or dimmed depending on far an object was from the sensor.
 ### Code
-[NewPing()](https://github.com/adent11/Not-So-Basic-Arduino/tree/master/NewPing())
+[NewPing()](https://github.com/mbjones73/NotSoBasicArduino/blob/master/NewPing/NewPing.ino)
 ### wiring
 ![hhisi](https://github.com/mbjones73/Basic-CAD/blob/master/media/NewPing.PNG)
 ### Challenges
